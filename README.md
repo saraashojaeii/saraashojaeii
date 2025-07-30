@@ -24,4 +24,4 @@ You can know me better by watching my videos on
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraashojaeii&layout=compact&hide=html,css)
 
 ## 🛠 My Skills
-`Python`, `PyTorch`, `OpenCV`, `MMCV`, `Docker`, `Git`, `QGIS`, 'Linux', and `MATLAB`
+`Python`, `PyTorch`, `OpenCV`, `MMCV`, `Docker`, `Git`, `QGIS`, `Linux`, and `MATLAB`
