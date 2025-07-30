@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sara 👋
 
-<!--
-**saraashojaeii/saraashojaeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an EECS PhD student with a passion for Computer Vision. I enjoy working on geospatial-related tasks. I’m currently working on Building and Road segmentation, and multi-class change detection using Remote Sensing imagery.
 
-Here are some ideas to get you started:
+## 🔬 Interests
+- Computer Vision
+- Machine Learning
+- Neural Networks
+- GeoSpatial
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/sarashojaei/))
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](saraashojaeii@gmail.com)
+
+## 📊 GitHub Stats
+<!-- Use a GitHub Readme Stats service like this: -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&count_private=true)
+
+## 🔧 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide=html,css)
+
+## 🛠 My Skills
+- Python
+- PyTorch
+- TensorFlow
+- ...and more!
