@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm a PhD student in Electrical Engineering and Computer Science at the University of Missouri-Columbia, specializing in **AI-driven computer vision** with a focus on **remote sensing**, **geospatial analysis**, and **curvilinear structure segmentation**. My work lies at the intersection of deep learning and real-world impact — from mapping roads and buildings to detecting changes in satellite imagery.
+My name is Sara and I'm a PhD student in Electrical Engineering and Computer Science at the University of Missouri-Columbia, specializing in **AI-driven computer vision** with a focus on **remote sensing**, **geospatial analysis**, and **curvilinear structure segmentation**. My work lies at the intersection of deep learning and real-world impact — from mapping roads and buildings to detecting changes in satellite imagery.
 
 📚 Outside of code, I enjoy reading, baking sourdough, and documenting my journey through videos and creative side projects.
 
@@ -19,6 +19,8 @@ You can know me better by watching my videos on
 
 ## 📊 GitHub Stats
 ![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saraashojaeii&show_icons=true&theme=default&count_private=true)
+
+## 🔧 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraashojaeii&layout=compact&hide=html,css)
 
 ## 🛠 My Skills
