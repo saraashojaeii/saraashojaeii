@@ -1,6 +1,6 @@
-# Hi, I'm Sara 👋
+# Hi there!
 
-I’m an EECS PhD student with a passion for Computer Vision. I enjoy working on geospatial-related tasks. I’m currently working on Building and Road segmentation, and multi-class change detection using Remote Sensing imagery.
+I’m Sara, an EECS PhD student with a passion for Computer Vision. I enjoy working on geospatial-related tasks. I’m currently working on Building and Road segmentation, and multi-class change detection using Remote Sensing imagery.
 
 ## 🔬 Interests
 - Computer Vision
@@ -28,4 +28,5 @@ I’m an EECS PhD student with a passion for Computer Vision. I enjoy working on
 - Linux
 - Hugging Face
 - Accelerate
+- `Python`, `PyTorch`, `OpenCV`, `MMCV`, `Docker`, `Git`, `QGIS`, and `MATLAB`
 
