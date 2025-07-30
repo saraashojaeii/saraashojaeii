@@ -17,7 +17,7 @@ I’m an EECS PhD student with a passion for Computer Vision. I enjoy working on
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saraashojaeii&show_icons=true&theme=default&count_private=true)
 
 ## 🔧 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraashojaeii&layout=compact&hide=html,css)
 
 ## 🛠 My Skills
 - Python
